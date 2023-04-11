@@ -1,4 +1,4 @@
-module go-healthcheck
+module github.com/goforbroke1006/go-healthcheck
 
 go 1.20
 
